@@ -14,7 +14,7 @@ Content:
 * [PHP](#PHP)
 
 
-####Java
+###Java
 Heritrix	Java	Linux
 
 Nutch	Java	Cross-platform
@@ -73,10 +73,10 @@ JoBo	Java	Cross-platform
 
 Hounder	Java	Cross-platform
 
-####Python
+###Python
 Scrapy	Python	Cross-platform
 
-####C++
+###C++
 
 DataparkSearch	C++	Cross-platform
 
@@ -111,14 +111,14 @@ GRUB	C#, C, Python, Perl	Cross-platform
 Open Source Server	C/C++, Java PHP	Cross-platform
 
 
-####C Sharp
+###C Sharp
 Arachnode.net	C#	Windows
 
 Ccrawler	C#	Windows
 
 OpenWebSpider	C#, PHP	Cross-platform
 
-####PHP
+###PHP
 
 Sphider	PHP	Cross-platform
 
