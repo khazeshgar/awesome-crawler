@@ -8,7 +8,7 @@ Content:
 
 * [Java](#java)
 * [Python](#python)
-* [C++](#c++)
+* [Cpluplus](#cpluplus)
 * [C Sharp](#c-sharp)
 * [C](#c)
 * [PHP](#php)
@@ -76,7 +76,7 @@ Hounder	Java	Cross-platform
 ###Python
 Scrapy	Python	Cross-platform
 
-###C++
+###Cpluplus
 
 DataparkSearch	C++	Cross-platform
 
