@@ -7,11 +7,11 @@ List of Some Crawler!
 Content:
 
 * [Java](#java)
-* [Python](#Python)
-* [C++](#C++)
-* [C Sharp](#C Sharp)
-* [C](#C)
-* [PHP](#PHP)
+* [Python](#python)
+* [C++](#c++)
+* [C Sharp](#c-sharp)
+* [C](#c)
+* [PHP](#php)
 
 
 ###Java
