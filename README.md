@@ -9,7 +9,7 @@ Content:
 * [Java](#java)
 * [Python](#Python)
 * [C++](#C++)
-* [C#](#C#)
+* [C Sharp](#C Sharp)
 * [C](#C)
 * [PHP](#PHP)
 
@@ -111,7 +111,7 @@ GRUB	C#, C, Python, Perl	Cross-platform
 Open Source Server	C/C++, Java PHP	Cross-platform
 
 
-####C#
+####C Sharp
 Arachnode.net	C#	Windows
 
 Ccrawler	C#	Windows
